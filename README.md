@@ -54,8 +54,8 @@ Saya adalah lulusan **S1 Teknik Informatika dari Universitas Dinamika Bangsa Jam
 
 <div align="center">
 
-[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=dedesyahrul&repo=portfolio-website&theme=tokyonight)](https://github.com/dedesyahrul/portfolio-website)
-[![E-commerce Card](https://github-readme-stats.vercel.app/api/pin/?username=dedesyahrul&repo=e-commerce&theme=tokyonight)](https://github.com/dedesyahrul/e-commerce)
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=dedesyahrul&repo=dedesyahrul.github.io&theme=tokyonight)](https://github.com/dedesyahrul/dedesyahrul.github.io)
+[![E-commerce Card](https://github-readme-stats.vercel.app/api/pin/?username=dedesyahrul&repo=AplikasiSiTemanPublik&theme=tokyonight)](https://github.com/dedesyahrul/AplikasiSiTemanPublik)
 
 </div>
 
