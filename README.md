@@ -60,3 +60,42 @@ Saya adalah lulusan **S1 Teknik Informatika dari Universitas Dinamika Bangsa Jam
 </div>
 
 ## 🎯 Current Focus
+
+<details>
+<summary>🔄 Pengembangan Skills (Click untuk detail)</summary>
+
+### 1. 🐳 Advanced Docker & Kubernetes
+- Memperdalam orchestration container dengan Kubernetes
+- Implementasi microservices architecture
+- Optimasi deployment dan scaling aplikasi
+- CI/CD pipeline dengan Docker
+
+### 2. ☁️ AWS Cloud Architecture
+- Membangun serverless applications dengan AWS Lambda
+- Implementasi high-availability systems
+- Optimasi biaya dan performa cloud infrastructure
+- AWS Security best practices
+
+### 3. 📱 Progressive Web Apps (PWA)
+- Pengembangan aplikasi web modern dengan teknologi PWA
+- Implementasi service workers untuk offline functionality
+- Push notifications dan background sync
+- Optimasi performa dan user experience
+
+### 4. 🔒 Security & Best Practices
+- Implementasi OAuth 2.0 dan JWT
+- Keamanan API dan database
+- OWASP security guidelines
+- Data encryption dan protection
+
+### 5. 📊 Data Analytics & Monitoring
+- Implementasi logging system dengan ELK Stack
+- Real-time monitoring dengan Grafana
+- Performance metrics dan analytics
+- Error tracking dan debugging
+</details>
+
+<details>
+<summary>📚 Sedang Dipelajari</summary>
+
+</details>
