@@ -1,11 +1,11 @@
 # 👋 Halo, Saya Dede Syahrul Muadhom!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dede%20Syahrul&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Laravel%20Enthusiast&descAlignY=50&descAlign=62" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a73e8&height=250&section=header&text=Dede%20Syahrul&fontSize=70&animation=twinkling&fontColor=fff&desc=Transforming%20Ideas%20into%20Code&descSize=20&fontAlignY=35&descAlignY=55" alt="Header Banner"/>
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer | Laravel Enthusiast | Cloud & DevOps Learner</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Full+Stack+Developer;Laravel+Enthusiast+%7C+Cloud+%26+DevOps+Learner" alt="Typing SVG"/>
 </p>
 
 <p align="center">
