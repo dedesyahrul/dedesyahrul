@@ -10,10 +10,10 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dedesyahrul)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dede-syahrul-muadhom-9b1b78111/)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/dedesyahrul)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/yourphonenumber)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dedesyahrul00@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/6282246684545)
   
 </div>
 
