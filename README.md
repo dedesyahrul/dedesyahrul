@@ -1,7 +1,7 @@
 # 👋 Halo, Saya Dede Syahrul Muadhom!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00ff99&height=300&section=header&text=Dede%20Syahrul&fontSize=90&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20Developer&descSize=25&fontAlignY=35&descAlignY=55" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00ff99&height=300&section=header&text=Dede%20Syahrul%20Muadhom&fontSize=60&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20Developer&descSize=25&fontAlignY=35&descAlignY=55" alt="Header"/>
 </p>
 
 <div align="center">
