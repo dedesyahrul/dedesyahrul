@@ -50,6 +50,21 @@ Saya adalah lulusan **S1 Teknik Informatika dari Universitas Dinamika Bangsa Jam
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedesyahrul&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+
+## 🛠️ Development Breakdown
+
+<!-- Programming Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedesyahrul&layout=pie&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+<!-- Coding Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dedesyahrul&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<!-- Weekly Stats -->
+
 ## 🌟 Highlight Projects
 
 <div align="center">
