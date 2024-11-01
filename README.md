@@ -1,64 +1,60 @@
-# Hi there! 👋 Welcome to My GitHub Profile!
+# 👋 Hello, I'm Dede Syahrul Muadhom!
 
-I'm [Nama Anda], seorang [profesi Anda, misal: Software Engineer, Data Scientist, atau Web Developer] yang bersemangat tentang teknologi dan pengembangan perangkat lunak. Saya selalu mencari tantangan baru dan cara untuk berinovasi!
-
----
-
-## 🔧 Tech Stack
-
-- **Languages**: Python, JavaScript, Java, SQL
-- **Frameworks**: Django, Flask, React, Node.js
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms**: Docker, Git, VS Code, Linux
+I'm a **Full Stack Developer** with a strong foundation in **web application development** and a passion for creating efficient, impactful solutions. As a recent graduate of **S1 Teknik Informatika from Universitas Dinamika Bangsa Jambi**, I've specialized in backend and frontend development, primarily using the Laravel Framework. 
 
 ---
 
-## 📈 GitHub Stats
+## 🧑‍💻 About Me
+I am a dedicated full-stack developer enthusiastic about the latest technologies and eager to tackle new challenges. Over the past few years, I’ve gained expertise in integrating **Proxmox** for various projects, helping organizations improve infrastructure resilience, optimize costs, and support growth. I am also skilled in **Linux-based server administration** and have a strong grasp of operating systems, which enables me to provide stable and efficient support for IT projects.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=stars&theme=default)
-
----
-
-## 📌 Pinned Projects
-
-### [Project Name 1](https://github.com/username/project1)
-🚀 Deskripsi singkat tentang project ini. Misalnya, project ini adalah aplikasi web berbasis Python yang membantu pengguna dalam melakukan tugas tertentu.
-
-### [Project Name 2](https://github.com/username/project2)
-🌍 Deskripsi singkat lainnya. Misalnya, project ini adalah aplikasi berbasis AI yang mendeteksi objek dari gambar untuk membantu analisis data visual.
-
-> _Project-project ini merupakan beberapa contoh karya yang saya kerjakan dengan fokus pada kualitas, efisiensi, dan kegunaan._
+I continuously strive to learn and implement new tools, such as **Docker, cloud computing**, and **AWS services**, to stay at the forefront of technological advancements. My goal is to contribute to teams that value growth, collaboration, and innovation. Thank you for visiting my portfolio, and I look forward to potential collaborations.
 
 ---
 
-## 🏆 Achievements & Certifications
+## 💼 Skills
 
-- **Certified in XYZ** - [Certifying Authority](#)
-- **Top 5 in Hackathon ABC 2023** - Category: Web Development
-- **Awarded for Project Excellence** - By [Organization Name](#)
+- **Languages**: PHP, MySQL, Java, Kotlin
+- **Frameworks**: Laravel, Bootstrap
+- **Technologies**: Docker, Proxmox, AWS, Linux
+
+### Skill Proficiency
+
+| Skill               | Proficiency |
+|---------------------|-------------|
+| PHP / MySQL         | 75%         |
+| Bootstrap           | 85%         |
+| Laravel Framework   | 79%         |
+| Java                | 75%         |
+| Kotlin              | 70%         |
+
+---
+
+## 📂 Featured Projects
+
+### [Portfolio Website](https://github.com/dedesyahrul/portfolio-website)
+A personal portfolio website built to showcase my projects and skills, designed with modern aesthetics and responsive layouts.
+
+### [E-commerce Platform](https://github.com/dedesyahrul/e-commerce)
+An e-commerce web application that allows users to browse products, add them to the cart, and complete purchases securely. Built with Laravel and integrated with Proxmox for server management.
+
+> _Explore more of my projects [here](https://github.com/dedesyahrul?tab=repositories)._
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/yourname/)
-[![Website](https://img.shields.io/badge/Website-yourwebsite.com-red)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-your.email%40domain.com-orange)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dede%20Syahrul-blue)](https://www.linkedin.com/in/dedesyahrul)
+[![GitHub](https://img.shields.io/badge/GitHub-dedesyahrul-lightgrey)](https://github.com/dedesyahrul)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-brightgreen)](https://wa.me/yourphonenumber)
 
 ---
 
-## 🌱 I’m currently learning
+## 🚀 What I’m Learning
 
-- Cloud Computing with AWS & Azure
-- Advanced Machine Learning Techniques
-- Mobile App Development using Flutter
-
----
-
-## ⚡ Fun Fact
-
-Did you know? The first computer programmer was Ada Lovelace, who worked on the Analytical Engine in the 1800s! 🌐
+- Advanced Docker & Kubernetes
+- Serverless Architecture on AWS
+- Building Progressive Web Apps (PWA) with modern frameworks
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my projects, contribute, or reach out if you want to connect. Let's create something amazing together! 🚀
+Thank you for visiting my profile! If you're interested in working together, feel free to reach out. Let’s build something impactful together! 🚀
