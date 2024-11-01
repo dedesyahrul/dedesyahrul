@@ -1,7 +1,7 @@
 # 👋 Halo, Saya Dede Syahrul Muadhom!
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/username" width="150" height="150" style="border-radius: 50%; border: 4px solid #5555FF;" alt="Dede Syahrul Muadhom"/>
+  <img src="https://avatars.githubusercontent.com/u/dedesyahrul" width="150" height="150" style="border-radius: 50%; border: 4px solid #5555FF;" alt="Dede Syahrul Muadhom"/>
 </p>
 
 <p align="center">
@@ -75,6 +75,16 @@ Saya selalu bersemangat untuk belajar teknologi baru dan siap menghadapi tantang
   <em>Aplikasi e-commerce yang memungkinkan pengguna untuk menelusuri produk, menambahkannya ke keranjang, dan melakukan pembelian dengan aman. Dibangun dengan Laravel dan diintegrasikan dengan Proxmox untuk manajemen server.</em>
 
 > Jelajahi lebih banyak proyek saya [di sini](https://github.com/dedesyahrul?tab=repositories).
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dedesyahrul&show_icons=true&theme=radical&count_private=true" alt="Dede Syahrul's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dedesyahrul&theme=radical" alt="Dede Syahrul's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedesyahrul&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
