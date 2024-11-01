@@ -1,10 +1,7 @@
 # 👋 Halo, Saya Dede Syahrul Muadhom!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dede%20Syahrul&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Laravel%20Enthusiast&descAlignY=50&descAlign=62" alt="Header Banner"/>
 </p>
 
 <p align="center">
