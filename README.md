@@ -1,7 +1,10 @@
 # 👋 Halo, Saya Dede Syahrul Muadhom!
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/dedesyahrul" width="150" height="150" style="border-radius: 50%; border: 4px solid #5555FF;" alt="Dede Syahrul Muadhom"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 
 <p align="center">
