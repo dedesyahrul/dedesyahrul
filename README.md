@@ -37,31 +37,12 @@ Saya selalu bersemangat untuk belajar teknologi baru dan siap menghadapi tantang
 
 ---
 
-## ⚙️ Tingkat Keahlian
+## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td><strong>PHP / MySQL</strong></td>
-      <td><progress value="75" max="100"></progress> 75%</td>
-    </tr>
-    <tr>
-      <td><strong>Bootstrap</strong></td>
-      <td><progress value="85" max="100"></progress> 85%</td>
-    </tr>
-    <tr>
-      <td><strong>Laravel Framework</strong></td>
-      <td><progress value="79" max="100"></progress> 79%</td>
-    </tr>
-    <tr>
-      <td><strong>Java</strong></td>
-      <td><progress value="75" max="100"></progress> 75%</td>
-    </tr>
-    <tr>
-      <td><strong>Kotlin</strong></td>
-      <td><progress value="70" max="100"></progress> 70%</td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=dedesyahrul&show_icons=true&theme=radical&count_private=true" alt="Dede Syahrul's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dedesyahrul&theme=radical" alt="Dede Syahrul's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedesyahrul&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -75,16 +56,6 @@ Saya selalu bersemangat untuk belajar teknologi baru dan siap menghadapi tantang
   <em>Aplikasi e-commerce yang memungkinkan pengguna untuk menelusuri produk, menambahkannya ke keranjang, dan melakukan pembelian dengan aman. Dibangun dengan Laravel dan diintegrasikan dengan Proxmox untuk manajemen server.</em>
 
 > Jelajahi lebih banyak proyek saya [di sini](https://github.com/dedesyahrul?tab=repositories).
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dedesyahrul&show_icons=true&theme=radical&count_private=true" alt="Dede Syahrul's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dedesyahrul&theme=radical" alt="Dede Syahrul's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedesyahrul&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
